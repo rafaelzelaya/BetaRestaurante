@@ -12,6 +12,7 @@ import java.security.Principal;
 
 /**
  * Created by Verenice on 21/07/2015.
+ * prueba git
  */
 public class Login extends ActionBarActivity {
 
