@@ -30,7 +30,7 @@ public class Prueba extends ActionBarActivity {
         Double xBebida   = extras.getDouble("Bebida");
 
 
-        tv_gracias.setText("Porciones seleccionadas: "
+        tv_gracias.setText("Total Porciones seleccionadas: \n "
                 + xCarne   + "\n + "
                 + xPollo   + "\n + "
                 + xPescado + "\n + "
