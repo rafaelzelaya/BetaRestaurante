@@ -65,7 +65,7 @@ public class Orden extends ActionBarActivity {
         BotonBebida = (Button)findViewById(R.id.BtnBebida);
 
         BtnEnviar = (Button) findViewById(R.id.BtnEnviarOrde);
-
+/*editado por rafael como prueba para GITHUB*/
 
         //contadores
         ctnCarne=(TextView)findViewById(R.id.txtTotalCarne);
